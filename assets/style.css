@@ -1,7 +1,8 @@
-li {
+.list{
     display:inline;
-    
+
 }
 body {
+    background-color: #e4b526;
     background-image: url();
 }
