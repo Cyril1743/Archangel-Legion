@@ -9,6 +9,6 @@ I wanted a place where members of the clan could connect and new members could j
 # What did I learn?
 I learned how to use HTML to set the structure of the page. I learned how to manipulate CSS to get the look I wanted
 # Screenshot
-![Screenshot](./assets/archangelLegionScreenshot)
+![Screenshot](./assets/archangelLegionScreenshot.jpg)
 # Website
 www.archangellegion.com
