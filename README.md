@@ -12,4 +12,4 @@ I learned how to use HTML to set the structure of the page. I learned how to man
 ![Screenshot](./assets/archangelLegionScreenshot.jpg)
 # Website
 www.archangellegion.com
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
